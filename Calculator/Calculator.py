@@ -9,12 +9,9 @@ operand = 3
 
 def output():
     """prints contents of store and operand"""
-    print
-    "Store = ", store
-    print
-    "Operand = ", operand
-    print
-    ""
+    print("Store = ", store)
+    print("Operand = ", operand)
+
 
 
 def swap():
